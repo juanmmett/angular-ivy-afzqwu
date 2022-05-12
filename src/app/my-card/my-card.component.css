@@ -1,0 +1,8 @@
+.my-card {
+  cursor: pointer;
+  transition: none !important;
+  box-shadow: 1px 2px 8px rgba(31, 31, 31, 0.08);
+  background-color: rgb(167, 34, 34);
+  height: 300px;
+  margin-top: 20px;
+}
